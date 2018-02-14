@@ -1,0 +1,23 @@
+{
+  "name": "double-bullets",
+  "version": "1.0.0",
+  "description": "Demonstrate a bug in vscode-jest",
+  "main": "foo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillshum/double-bullets.git"
+  },
+  "author": "Hilton Shumway <hillshum@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillshum/double-bullets/issues"
+  },
+  "homepage": "https://github.com/hillshum/double-bullets#readme",
+  "dependencies": {
+    "eslint": "^4.17.0",
+    "jest": "^22.3.0"
+  }
+}
